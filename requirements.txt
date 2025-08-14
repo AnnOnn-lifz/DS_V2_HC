@@ -1,0 +1,7 @@
+# Python dependencies for the dashboard
+streamlit
+pandas
+numpy
+matplotlib
+# Only needed if you ever read .xlsx files with pandas
+openpyxl
